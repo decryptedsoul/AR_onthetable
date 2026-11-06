@@ -13,6 +13,7 @@ Follow the [application setup guide](./coconut-grove/README.md). Build the front
 - [Goals and requirements](./PROJECT_REQUIREMENTS.md)
 - [AR implementation plan](./AR_IMPLEMENTATION_PLAN.md)
 - [Architecture and future scaling](./coconut-grove/ARCHITECTURE.md)
+- [Vercel and Neon deployment guide](./coconut-grove/DEPLOYMENT_VERCEL_NEON.md)
 - [Current pages, content sources and preview boundaries](./coconut-grove/PAGE_UPDATE.md)
 - [Brand palette](./COLOR_PALETTE.md)
 - [Decision log](./DECISIONS.md)

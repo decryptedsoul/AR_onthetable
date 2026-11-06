@@ -103,3 +103,16 @@ we chose independent React Router URLs with explicit FastAPI entry points, a pro
 to provide distinct mobile browsing tasks and a working preview without fabricating restaurant servings,
 accepting third-party reference prices, a deferred 3D payload, a labeled visit-film placeholder, and the need for approved dish models and physical-device AR testing.
 The fixed navbar is explicitly requested by the user; page sections are no longer cross-page scroll targets. Unused scroll animations were removed. Existing sourced catalog edits are preserved by the explicit importer.
+
+### Vercel frontend/API projects with Neon PostgreSQL
+
+**Date:** 2026-11-07  
+**Status:** Prepared and locally tested; cloud deployment pending  
+**Files:** [Deployment guide](./coconut-grove/DEPLOYMENT_VERCEL_NEON.md), [Database engine](./coconut-grove/backend/app/database.py), [Settings](./coconut-grove/backend/app/config.py)
+
+In the context of the user's Vercel and Neon prototype deployment,
+facing separate React/Python runtimes and serverless filesystem and connection-lifecycle constraints,
+we chose two Vercel project roots with explicit route configuration, PostgreSQL-required settings on Vercel, psycopg 3 URL normalization, and NullPool against Neon's pooled endpoint,
+to retain the existing application architecture while releasing database client connections after requests,
+accepting separate environment/CORS setup and explicit migration/import steps before deployment.
+Local SQLite and traditional server pooling remain available. Sixteen backend tests, the frontend production build and Alembic schema check pass; no actual Neon connection or Vercel deployment is claimed.

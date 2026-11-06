@@ -60,6 +60,8 @@ The URL restaurant ID scopes public catalog reads. It is not a complete tenant-i
 
 ## Deployment and limits
 
+The [Vercel/Neon guide](./DEPLOYMENT_VERCEL_NEON.md) covers separate frontend and FastAPI Vercel projects and a Neon PostgreSQL branch. Both app roots include `vercel.json`. On Vercel, PostgreSQL is required; standard Neon PostgreSQL URLs select psycopg 3. Runtime PostgreSQL connections use `NullPool` against Neon's pooled endpoint, with a 10-second connection timeout. Local SQLite and traditional server pooling remain supported. Migrations and menu import are explicit release steps, never request-startup tasks. Hosted deployment is not yet verified.
+
 [Dockerfile](./Dockerfile) builds React and runs FastAPI as a non-root user. [Compose](./compose.yaml) provides PostgreSQL and a one-shot migration service. Sample seeding is explicit. Container/PostgreSQL execution is not verified in this environment because Docker is unavailable.
 
 The retained Sites registration is a static frontend target, not a Python host. Its manifest now points at the React build; publishing there would require a separately hosted API and configured frontend API origin. No upload or deployment was attempted in this migration.

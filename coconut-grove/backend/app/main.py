@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 
 def create_app(settings: Settings | None = None) -> FastAPI:
     settings = settings or Settings.from_env()
-    engine = build_engine(settings.database_url)
+    engine = build_engine(settings.database_url, serverless=settings.serverless)
 
     @asynccontextmanager
     async def lifespan(_app):

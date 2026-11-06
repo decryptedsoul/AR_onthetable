@@ -4,6 +4,8 @@ A mobile-first React/TypeScript menu backed by modular FastAPI and SQLAlchemy. T
 
 See [architecture and scaling](./ARCHITECTURE.md) for boundaries, concurrency and the future brand-platform roadmap.
 
+For hosted setup, follow the [Vercel and Neon deployment guide](./DEPLOYMENT_VERCEL_NEON.md), including both Vercel projects, database migration/import, environment variables and post-deployment checks.
+
 See the [design review](./DESIGN_REVIEW.md) for the typography, mobile navigation, touch-target, loading-state and reduced-motion improvements, plus their validation and deliberate design tradeoffs.
 
 ## Requirements
