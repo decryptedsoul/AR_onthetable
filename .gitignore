@@ -1,0 +1,26 @@
+# Local design reviews and browser captures
+.taste-skill/
+.openai/
+asset-check.jpg
+
+# Dependencies, build output and Python caches
+node_modules/
+.venv/
+dist/
+__pycache__/
+*.py[cod]
+
+# Runtime databases, logs and secrets
+var/
+*.db
+*.sqlite*
+*.log
+.env
+.env.*
+!.env.example
+
+# Local archives and editor/system files
+*.tar
+*.tar.gz
+.DS_Store
+Thumbs.db

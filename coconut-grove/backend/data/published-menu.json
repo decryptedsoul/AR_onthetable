@@ -1,0 +1,1004 @@
+{
+  "source_url": "https://www.menupak.com/m/coconut-grove-karachi",
+  "source_name": "MenuPak public listing",
+  "observed_on": "2026-11-06",
+  "note": "Third-party reference. Availability, prices and recipes require restaurant confirmation. Descriptions and dietary claims are not imported. Prices below Rs100 excluded as potentially erroneous.",
+  "items": [
+    {
+      "id": "cg-appetizers-butterfly-prawn",
+      "name": "Butterfly Prawn",
+      "category": "Appetizers",
+      "price_minor": 165000
+    },
+    {
+      "id": "cg-appetizers-cheese-naan",
+      "name": "Cheese Naan",
+      "category": "Appetizers",
+      "price_minor": 89000
+    },
+    {
+      "id": "cg-appetizers-chicken-cheese-balls",
+      "name": "Chicken Cheese Balls",
+      "category": "Appetizers",
+      "price_minor": 119000
+    },
+    {
+      "id": "cg-appetizers-chicken-drum-sticks",
+      "name": "Chicken Drum Sticks",
+      "category": "Appetizers",
+      "price_minor": 106000
+    },
+    {
+      "id": "cg-appetizers-chicken-strips",
+      "name": "Chicken Strips",
+      "category": "Appetizers",
+      "price_minor": 105000
+    },
+    {
+      "id": "cg-appetizers-chicken-wonton",
+      "name": "Chicken Wonton",
+      "category": "Appetizers",
+      "price_minor": 84000
+    },
+    {
+      "id": "cg-appetizers-crab-rangoon",
+      "name": "Crab Rangoon",
+      "category": "Appetizers",
+      "price_minor": 156000
+    },
+    {
+      "id": "cg-appetizers-dhaka-fish",
+      "name": "Dhaka Fish",
+      "category": "Appetizers",
+      "price_minor": 152000
+    },
+    {
+      "id": "cg-appetizers-dynamite-chicken",
+      "name": "Dynamite Chicken",
+      "category": "Appetizers",
+      "price_minor": 119000
+    },
+    {
+      "id": "cg-appetizers-dynamite-prawns",
+      "name": "Dynamite Prawns",
+      "category": "Appetizers",
+      "price_minor": 149000
+    },
+    {
+      "id": "cg-appetizers-fried-platter",
+      "name": "Fried Platter",
+      "category": "Appetizers",
+      "price_minor": 185000
+    },
+    {
+      "id": "cg-appetizers-fries",
+      "name": "Fries",
+      "category": "Appetizers",
+      "price_minor": 47500
+    },
+    {
+      "id": "cg-appetizers-hara-batata",
+      "name": "Hara Batata",
+      "category": "Appetizers",
+      "price_minor": 79000
+    },
+    {
+      "id": "cg-appetizers-hummus",
+      "name": "Hummus",
+      "category": "Appetizers",
+      "price_minor": 89000
+    },
+    {
+      "id": "cg-appetizers-prawn-tempura",
+      "name": "Prawn Tempura",
+      "category": "Appetizers",
+      "price_minor": 169000
+    },
+    {
+      "id": "cg-appetizers-salt-and-pepper-calamari",
+      "name": "Salt And Pepper Calamari",
+      "category": "Appetizers",
+      "price_minor": 135000
+    },
+    {
+      "id": "cg-appetizers-supreme-nachos",
+      "name": "Supreme Nachos",
+      "category": "Appetizers",
+      "price_minor": 149000
+    },
+    {
+      "id": "cg-barbeque-platter-jumbo-prawn-special-special-chicken-leg-chicken-kofta-kabab-chicken-turkish-kabab-beef-hunzai-kabab-afghani-boti-served-with-rice",
+      "name": "Jumbo Prawn Special, Special Chicken Leg, Chicken Kofta, Kabab, Chicken Turkish Kabab, Beef Hunzai Kabab, Afghani, Boti & Served With Rice.",
+      "category": "Barbeque Platter",
+      "price_minor": 999000
+    },
+    {
+      "id": "cg-beef-barbeque-beef-afghani-boti",
+      "name": "Beef Afghani Boti",
+      "category": "Beef Barbeque",
+      "price_minor": 139000
+    },
+    {
+      "id": "cg-beef-barbeque-beef-bihari-boti",
+      "name": "Beef Bihari Boti",
+      "category": "Beef Barbeque",
+      "price_minor": 139000
+    },
+    {
+      "id": "cg-beef-barbeque-beef-dhaga-kabab",
+      "name": "Beef Dhaga Kabab",
+      "category": "Beef Barbeque",
+      "price_minor": 136000
+    },
+    {
+      "id": "cg-beef-barbeque-beef-hunzai-kabab",
+      "name": "Beef Hunzai Kabab",
+      "category": "Beef Barbeque",
+      "price_minor": 136000
+    },
+    {
+      "id": "cg-beef-barbeque-beef-seekh-kabab",
+      "name": "Beef Seekh Kabab",
+      "category": "Beef Barbeque",
+      "price_minor": 136000
+    },
+    {
+      "id": "cg-beverages-green-tea",
+      "name": "Green Tea",
+      "category": "Beverages",
+      "price_minor": 25000
+    },
+    {
+      "id": "cg-beverages-large-mineral-water",
+      "name": "Large Mineral Water",
+      "category": "Beverages",
+      "price_minor": 18000
+    },
+    {
+      "id": "cg-beverages-perrier-small",
+      "name": "Perrier [Small]",
+      "category": "Beverages",
+      "price_minor": 73000
+    },
+    {
+      "id": "cg-beverages-pura-spring-small",
+      "name": "Pura Spring (Small)",
+      "category": "Beverages",
+      "price_minor": 16000
+    },
+    {
+      "id": "cg-beverages-red-bull",
+      "name": "Red Bull",
+      "category": "Beverages",
+      "price_minor": 69000
+    },
+    {
+      "id": "cg-beverages-small-mineral-water",
+      "name": "Small Mineral Water",
+      "category": "Beverages",
+      "price_minor": 10000
+    },
+    {
+      "id": "cg-beverages-soft-drink",
+      "name": "Soft Drink",
+      "category": "Beverages",
+      "price_minor": 18500
+    },
+    {
+      "id": "cg-beverages-tea",
+      "name": "Tea",
+      "category": "Beverages",
+      "price_minor": 32500
+    },
+    {
+      "id": "cg-burgers-and-sandwiches-chicken-jalapeno-burger",
+      "name": "Chicken Jalapeno Burger",
+      "category": "Burgers And Sandwiches",
+      "price_minor": 119000
+    },
+    {
+      "id": "cg-burgers-and-sandwiches-fire-alarm-beef-burger",
+      "name": "Fire Alarm Beef Burger",
+      "category": "Burgers And Sandwiches",
+      "price_minor": 139000
+    },
+    {
+      "id": "cg-burgers-and-sandwiches-mexican-panini-sandwich",
+      "name": "Mexican Panini Sandwich",
+      "category": "Burgers And Sandwiches",
+      "price_minor": 135000
+    },
+    {
+      "id": "cg-burgers-and-sandwiches-oh-my-crunch",
+      "name": "Oh My Crunch",
+      "category": "Burgers And Sandwiches",
+      "price_minor": 119000
+    },
+    {
+      "id": "cg-burgers-and-sandwiches-old-school-club-sandwich",
+      "name": "Old School Club Sandwich",
+      "category": "Burgers And Sandwiches",
+      "price_minor": 125000
+    },
+    {
+      "id": "cg-burgers-and-sandwiches-smoky-cheese-burger",
+      "name": "Smoky Cheese Burger",
+      "category": "Burgers And Sandwiches",
+      "price_minor": 139000
+    },
+    {
+      "id": "cg-burgers-and-sandwiches-texas-burger",
+      "name": "Texas Burger",
+      "category": "Burgers And Sandwiches",
+      "price_minor": 159500
+    },
+    {
+      "id": "cg-chicken-barbeque-chicken-bihari-boti",
+      "name": "Chicken Bihari Boti",
+      "category": "Chicken Barbeque",
+      "price_minor": 137500
+    },
+    {
+      "id": "cg-chicken-barbeque-chicken-kofta-kabab",
+      "name": "Chicken Kofta Kabab",
+      "category": "Chicken Barbeque",
+      "price_minor": 136000
+    },
+    {
+      "id": "cg-chicken-barbeque-chicken-malai-boti",
+      "name": "Chicken Malai Boti",
+      "category": "Chicken Barbeque",
+      "price_minor": 137500
+    },
+    {
+      "id": "cg-chicken-barbeque-chicken-reshmi-kabab",
+      "name": "Chicken Reshmi Kabab",
+      "category": "Chicken Barbeque",
+      "price_minor": 136000
+    },
+    {
+      "id": "cg-chicken-barbeque-chicken-tandoori-boti",
+      "name": "Chicken Tandoori Boti",
+      "category": "Chicken Barbeque",
+      "price_minor": 129000
+    },
+    {
+      "id": "cg-chicken-barbeque-chicken-turkish-kabab",
+      "name": "Chicken Turkish Kabab",
+      "category": "Chicken Barbeque",
+      "price_minor": 136000
+    },
+    {
+      "id": "cg-chicken-barbeque-lebanese-boti",
+      "name": "Lebanese Boti",
+      "category": "Chicken Barbeque",
+      "price_minor": 129000
+    },
+    {
+      "id": "cg-chicken-barbeque-mughlai-kabab",
+      "name": "Mughlai Kabab",
+      "category": "Chicken Barbeque",
+      "price_minor": 199000
+    },
+    {
+      "id": "cg-chicken-barbeque-special-chicken-leg",
+      "name": "Special Chicken Leg",
+      "category": "Chicken Barbeque",
+      "price_minor": 129000
+    },
+    {
+      "id": "cg-chicken-fried-rice-chicken-fried-rice",
+      "name": "Chicken Fried Rice",
+      "category": "Chicken Fried Rice",
+      "price_minor": 85000
+    },
+    {
+      "id": "cg-cold-coffee-ice-cappuccino",
+      "name": "Ice Cappuccino",
+      "category": "Cold Coffee",
+      "price_minor": 69000
+    },
+    {
+      "id": "cg-cold-coffee-mocha-frappe",
+      "name": "Mocha Frappe",
+      "category": "Cold Coffee",
+      "price_minor": 79000
+    },
+    {
+      "id": "cg-desserts-baby-jalebi",
+      "name": "Baby Jalebi",
+      "category": "Desserts",
+      "price_minor": 75000
+    },
+    {
+      "id": "cg-desserts-blue-berry-cheese-cake",
+      "name": "Blue Berry Cheese Cake",
+      "category": "Desserts",
+      "price_minor": null
+    },
+    {
+      "id": "cg-desserts-browoster",
+      "name": "Browoster",
+      "category": "Desserts",
+      "price_minor": 109000
+    },
+    {
+      "id": "cg-desserts-cg-nutella-waffles",
+      "name": "CG Nutella Waffles",
+      "category": "Desserts",
+      "price_minor": 98000
+    },
+    {
+      "id": "cg-desserts-cg-special-waffles",
+      "name": "CG Special Waffles",
+      "category": "Desserts",
+      "price_minor": 98000
+    },
+    {
+      "id": "cg-desserts-chocolate-lava-cake",
+      "name": "Chocolate Lava Cake",
+      "category": "Desserts",
+      "price_minor": 90000
+    },
+    {
+      "id": "cg-desserts-creme-brulee",
+      "name": "Creme Brulee",
+      "category": "Desserts",
+      "price_minor": 80000
+    },
+    {
+      "id": "cg-desserts-kulfi",
+      "name": "Kulfi",
+      "category": "Desserts",
+      "price_minor": 41000
+    },
+    {
+      "id": "cg-desserts-kunafa",
+      "name": "Kunafa",
+      "category": "Desserts",
+      "price_minor": 109000
+    },
+    {
+      "id": "cg-desserts-lotus-melting-pizzookie",
+      "name": "Lotus Melting Pizzookie",
+      "category": "Desserts",
+      "price_minor": 124000
+    },
+    {
+      "id": "cg-desserts-sizzling-brownie",
+      "name": "Sizzling Brownie",
+      "category": "Desserts",
+      "price_minor": 125000
+    },
+    {
+      "id": "cg-desserts-strawberry-cheese-cake",
+      "name": "Strawberry Cheese Cake",
+      "category": "Desserts",
+      "price_minor": 89000
+    },
+    {
+      "id": "cg-desserts-three-milk-cake",
+      "name": "Three Milk Cake",
+      "category": "Desserts",
+      "price_minor": 99000
+    },
+    {
+      "id": "cg-fresh-juices-seasonal-apple",
+      "name": "Apple",
+      "category": "Fresh Juices [Seasonal]",
+      "price_minor": 59000
+    },
+    {
+      "id": "cg-fresh-juices-seasonal-orange-juice",
+      "name": "Orange Juice",
+      "category": "Fresh Juices [Seasonal]",
+      "price_minor": 59000
+    },
+    {
+      "id": "cg-fresh-salad-fresh-salad",
+      "name": "Fresh Salad",
+      "category": "Fresh Salad",
+      "price_minor": 35000
+    },
+    {
+      "id": "cg-fresh-salad-raita",
+      "name": "Raita",
+      "category": "Fresh Salad",
+      "price_minor": 35000
+    },
+    {
+      "id": "cg-garlic-fried-rice-garlic-fried-rice",
+      "name": "Garlic Fried Rice",
+      "category": "Garlic Fried Rice",
+      "price_minor": 75000
+    },
+    {
+      "id": "cg-hot-coffee-americano",
+      "name": "Americano",
+      "category": "Hot Coffee",
+      "price_minor": 55000
+    },
+    {
+      "id": "cg-hot-coffee-cappuccino",
+      "name": "Cappuccino",
+      "category": "Hot Coffee",
+      "price_minor": 69000
+    },
+    {
+      "id": "cg-hot-coffee-coffee-latte",
+      "name": "Coffee Latte",
+      "category": "Hot Coffee",
+      "price_minor": 69000
+    },
+    {
+      "id": "cg-hot-coffee-espresso-double",
+      "name": "Espresso ( Double )",
+      "category": "Hot Coffee",
+      "price_minor": 69000
+    },
+    {
+      "id": "cg-hot-coffee-espresso-single",
+      "name": "Espresso ( Single )",
+      "category": "Hot Coffee",
+      "price_minor": 49000
+    },
+    {
+      "id": "cg-mandi-special-chicken-madbee",
+      "name": "Chicken Madbee",
+      "category": "Mandi Special",
+      "price_minor": 199000
+    },
+    {
+      "id": "cg-mandi-special-extra-rice",
+      "name": "Extra Rice",
+      "category": "Mandi Special",
+      "price_minor": 45000
+    },
+    {
+      "id": "cg-mandi-special-fish-mandi",
+      "name": "Fish Mandi",
+      "category": "Mandi Special",
+      "price_minor": 480000
+    },
+    {
+      "id": "cg-mandi-special-mutton-madbee",
+      "name": "Mutton Madbee",
+      "category": "Mandi Special",
+      "price_minor": 329000
+    },
+    {
+      "id": "cg-mandi-special-mutton-mandi",
+      "name": "Mutton Mandi",
+      "category": "Mandi Special",
+      "price_minor": 299000
+    },
+    {
+      "id": "cg-mandi-special-mutton-ribs-mandi",
+      "name": "Mutton Ribs Mandi",
+      "category": "Mandi Special",
+      "price_minor": 485000
+    },
+    {
+      "id": "cg-mocktails-blue-adam",
+      "name": "Blue Adam",
+      "category": "Mocktails",
+      "price_minor": 65000
+    },
+    {
+      "id": "cg-mocktails-boba-blast-blueberry",
+      "name": "Boba Blast Blueberry",
+      "category": "Mocktails",
+      "price_minor": 79000
+    },
+    {
+      "id": "cg-mocktails-boba-blast-passion-fruit",
+      "name": "Boba Blast Passion Fruit",
+      "category": "Mocktails",
+      "price_minor": 79000
+    },
+    {
+      "id": "cg-mocktails-boba-strawberry",
+      "name": "Boba Strawberry",
+      "category": "Mocktails",
+      "price_minor": 79000
+    },
+    {
+      "id": "cg-mocktails-chilli-lemonade",
+      "name": "Chilli Lemonade",
+      "category": "Mocktails",
+      "price_minor": 57000
+    },
+    {
+      "id": "cg-mocktails-coconut-cooler",
+      "name": "Coconut Cooler",
+      "category": "Mocktails",
+      "price_minor": 79000
+    },
+    {
+      "id": "cg-mocktails-couple-time-serving-2-person",
+      "name": "Couple Time ( Serving 2 Person )",
+      "category": "Mocktails",
+      "price_minor": 90000
+    },
+    {
+      "id": "cg-mocktails-jhony-moon",
+      "name": "Jhony Moon",
+      "category": "Mocktails",
+      "price_minor": 79000
+    },
+    {
+      "id": "cg-mocktails-jhony-rocket",
+      "name": "Jhony Rocket",
+      "category": "Mocktails",
+      "price_minor": 79000
+    },
+    {
+      "id": "cg-mocktails-mint-lemonade",
+      "name": "Mint Lemonade",
+      "category": "Mocktails",
+      "price_minor": 55000
+    },
+    {
+      "id": "cg-mocktails-passion-fruit-daiquiri",
+      "name": "Passion Fruit Daiquiri",
+      "category": "Mocktails",
+      "price_minor": 69000
+    },
+    {
+      "id": "cg-mocktails-peach-ice-tea",
+      "name": "Peach Ice Tea",
+      "category": "Mocktails",
+      "price_minor": 59000
+    },
+    {
+      "id": "cg-mocktails-strawberry-daiquiri",
+      "name": "Strawberry Daiquiri",
+      "category": "Mocktails",
+      "price_minor": 69000
+    },
+    {
+      "id": "cg-mocktails-strawberry-shake",
+      "name": "Strawberry Shake",
+      "category": "Mocktails",
+      "price_minor": 69000
+    },
+    {
+      "id": "cg-mocktails-vanila-shake",
+      "name": "Vanila Shake",
+      "category": "Mocktails",
+      "price_minor": 69000
+    },
+    {
+      "id": "cg-mocktails-yuzulemonade",
+      "name": "Yuzulemonade",
+      "category": "Mocktails",
+      "price_minor": 69000
+    },
+    {
+      "id": "cg-mutton-barbeque-mutton-chops",
+      "name": "Mutton Chops",
+      "category": "Mutton Barbeque",
+      "price_minor": 258000
+    },
+    {
+      "id": "cg-mutton-barbeque-mutton-ribs",
+      "name": "Mutton Ribs",
+      "category": "Mutton Barbeque",
+      "price_minor": 485000
+    },
+    {
+      "id": "cg-mutton-barbeque-mutton-sizzling-kabab",
+      "name": "Mutton Sizzling Kabab",
+      "category": "Mutton Barbeque",
+      "price_minor": 229000
+    },
+    {
+      "id": "cg-naan-chapati",
+      "name": "Chapati",
+      "category": "Naan",
+      "price_minor": null
+    },
+    {
+      "id": "cg-naan-garlic-naan",
+      "name": "Garlic Naan",
+      "category": "Naan",
+      "price_minor": 14000
+    },
+    {
+      "id": "cg-naan-kalongi-naan",
+      "name": "Kalongi Naan",
+      "category": "Naan",
+      "price_minor": 14000
+    },
+    {
+      "id": "cg-naan-kandhari-naan",
+      "name": "Kandhari Naan",
+      "category": "Naan",
+      "price_minor": 13000
+    },
+    {
+      "id": "cg-naan-plain-naan",
+      "name": "Plain Naan",
+      "category": "Naan",
+      "price_minor": null
+    },
+    {
+      "id": "cg-naan-puri-paratha",
+      "name": "Puri Paratha",
+      "category": "Naan",
+      "price_minor": 14000
+    },
+    {
+      "id": "cg-naan-roghni-naan",
+      "name": "Roghni Naan",
+      "category": "Naan",
+      "price_minor": 14000
+    },
+    {
+      "id": "cg-naan-whole-wheat",
+      "name": "Whole Wheat",
+      "category": "Naan",
+      "price_minor": 10000
+    },
+    {
+      "id": "cg-pan-asian-s-all-spice-chicken",
+      "name": "All Spice Chicken",
+      "category": "Pan Asian'S",
+      "price_minor": 165000
+    },
+    {
+      "id": "cg-pan-asian-s-beef-chilli-dry",
+      "name": "Beef Chilli Dry",
+      "category": "Pan Asian'S",
+      "price_minor": 185000
+    },
+    {
+      "id": "cg-pan-asian-s-beef-with-black-pepper",
+      "name": "Beef With Black Pepper",
+      "category": "Pan Asian'S",
+      "price_minor": 185000
+    },
+    {
+      "id": "cg-pan-asian-s-black-pepper-prawns",
+      "name": "Black Pepper Prawns",
+      "category": "Pan Asian'S",
+      "price_minor": 185000
+    },
+    {
+      "id": "cg-pan-asian-s-cancun-chicken",
+      "name": "Cancun Chicken",
+      "category": "Pan Asian'S",
+      "price_minor": 205000
+    },
+    {
+      "id": "cg-pan-asian-s-chicken-cashewnut",
+      "name": "Chicken Cashewnut",
+      "category": "Pan Asian'S",
+      "price_minor": 165000
+    },
+    {
+      "id": "cg-pan-asian-s-chicken-chilli-dry",
+      "name": "Chicken Chilli Dry",
+      "category": "Pan Asian'S",
+      "price_minor": 165000
+    },
+    {
+      "id": "cg-pan-asian-s-chilly-garlic-prawns",
+      "name": "Chilly Garlic Prawns",
+      "category": "Pan Asian'S",
+      "price_minor": 185000
+    },
+    {
+      "id": "cg-pan-asian-s-dragons-nest",
+      "name": "Dragons Nest",
+      "category": "Pan Asian'S",
+      "price_minor": 185000
+    },
+    {
+      "id": "cg-pan-asian-s-korean-chicken",
+      "name": "Korean Chicken",
+      "category": "Pan Asian'S",
+      "price_minor": 195000
+    },
+    {
+      "id": "cg-pan-asian-s-kung-pao-chicken",
+      "name": "Kung Pao Chicken",
+      "category": "Pan Asian'S",
+      "price_minor": 165000
+    },
+    {
+      "id": "cg-pan-asian-s-mongolian-veal-ribs",
+      "name": "Mongolian Veal Ribs",
+      "category": "Pan Asian'S",
+      "price_minor": 205000
+    },
+    {
+      "id": "cg-pan-asian-s-prawn-chilli-dry",
+      "name": "Prawn Chilli Dry",
+      "category": "Pan Asian'S",
+      "price_minor": 189000
+    },
+    {
+      "id": "cg-pan-asian-s-snap-trap",
+      "name": "Snap Trap",
+      "category": "Pan Asian'S",
+      "price_minor": 465000
+    },
+    {
+      "id": "cg-pan-asian-s-spicy-garlic-chicken-with-broccoli",
+      "name": "Spicy Garlic Chicken With Broccoli",
+      "category": "Pan Asian'S",
+      "price_minor": 165000
+    },
+    {
+      "id": "cg-pan-asian-s-spicy-garlic-fish",
+      "name": "Spicy Garlic Fish",
+      "category": "Pan Asian'S",
+      "price_minor": 175000
+    },
+    {
+      "id": "cg-pan-asian-s-sriracha-bbq-chicken",
+      "name": "Sriracha Bbq Chicken",
+      "category": "Pan Asian'S",
+      "price_minor": 195000
+    },
+    {
+      "id": "cg-pan-asian-s-thai-red-curry",
+      "name": "Thai Red Curry",
+      "category": "Pan Asian'S",
+      "price_minor": 175000
+    },
+    {
+      "id": "cg-pasta-noodles-rice-alferado-pasta",
+      "name": "Alferado Pasta",
+      "category": "Pasta, Noodles & Rice",
+      "price_minor": 155000
+    },
+    {
+      "id": "cg-pasta-noodles-rice-cg-special-pasta",
+      "name": "CG Special Pasta",
+      "category": "Pasta, Noodles & Rice",
+      "price_minor": 155000
+    },
+    {
+      "id": "cg-pasta-noodles-rice-chicken-chowmein",
+      "name": "Chicken Chowmein",
+      "category": "Pasta, Noodles & Rice",
+      "price_minor": 125000
+    },
+    {
+      "id": "cg-pasta-noodles-rice-chicken-thai-noodles",
+      "name": "Chicken Thai Noodles",
+      "category": "Pasta, Noodles & Rice",
+      "price_minor": 135000
+    },
+    {
+      "id": "cg-pasta-noodles-rice-penne-arrabbiata",
+      "name": "Penne Arrabbiata",
+      "category": "Pasta, Noodles & Rice",
+      "price_minor": 148000
+    },
+    {
+      "id": "cg-pasta-noodles-rice-spicy-fettuccine",
+      "name": "Spicy Fettuccine",
+      "category": "Pasta, Noodles & Rice",
+      "price_minor": 155000
+    },
+    {
+      "id": "cg-prawn-fried-rice-prawn-fried-rice",
+      "name": "Prawn Fried Rice",
+      "category": "Prawn Fried Rice",
+      "price_minor": 90000
+    },
+    {
+      "id": "cg-salads-arabic-mezze-platter",
+      "name": "Arabic Mezze Platter",
+      "category": "Salads",
+      "price_minor": 158500
+    },
+    {
+      "id": "cg-salads-caesar-salad",
+      "name": "Caesar Salad",
+      "category": "Salads",
+      "price_minor": 129000
+    },
+    {
+      "id": "cg-salads-greek-salad",
+      "name": "Greek Salad",
+      "category": "Salads",
+      "price_minor": 129000
+    },
+    {
+      "id": "cg-seafood-barbeque-grilled-prawns",
+      "name": "Grilled Prawns",
+      "category": "Seafood Barbeque",
+      "price_minor": 230000
+    },
+    {
+      "id": "cg-seafood-barbeque-grilled-surmai-half-kg",
+      "name": "Grilled Surmai (Half Kg)",
+      "category": "Seafood Barbeque",
+      "price_minor": 245000
+    },
+    {
+      "id": "cg-seafood-barbeque-whole-grilled-fish",
+      "name": "Whole Grilled Fish",
+      "category": "Seafood Barbeque",
+      "price_minor": 455000
+    },
+    {
+      "id": "cg-soups-chicken-corn-soup",
+      "name": "Chicken Corn Soup",
+      "category": "Soups",
+      "price_minor": 58000
+    },
+    {
+      "id": "cg-soups-chicken-thai-soup",
+      "name": "Chicken Thai Soup",
+      "category": "Soups",
+      "price_minor": 59000
+    },
+    {
+      "id": "cg-soups-cream-of-chicken",
+      "name": "Cream Of Chicken",
+      "category": "Soups",
+      "price_minor": 65000
+    },
+    {
+      "id": "cg-soups-mandarin-hot-and-sour",
+      "name": "Mandarin Hot And Sour",
+      "category": "Soups",
+      "price_minor": 59000
+    },
+    {
+      "id": "cg-soups-mutton-yakhni",
+      "name": "Mutton Yakhni",
+      "category": "Soups",
+      "price_minor": 41000
+    },
+    {
+      "id": "cg-steaks-beef-herb-and-butter",
+      "name": "Beef Herb And Butter",
+      "category": "Steaks",
+      "price_minor": 299000
+    },
+    {
+      "id": "cg-steaks-beef-moroccan-steak",
+      "name": "Beef Moroccan Steak",
+      "category": "Steaks",
+      "price_minor": 299000
+    },
+    {
+      "id": "cg-steaks-beef-mushroom-steak",
+      "name": "Beef Mushroom Steak",
+      "category": "Steaks",
+      "price_minor": 299000
+    },
+    {
+      "id": "cg-steaks-beef-pepper-steak",
+      "name": "Beef Pepper Steak",
+      "category": "Steaks",
+      "price_minor": 299000
+    },
+    {
+      "id": "cg-steaks-chicken-moroccan",
+      "name": "Chicken Moroccan",
+      "category": "Steaks",
+      "price_minor": 189000
+    },
+    {
+      "id": "cg-steaks-flamme-grilled-chicken",
+      "name": "Flamme Grilled Chicken",
+      "category": "Steaks",
+      "price_minor": 189000
+    },
+    {
+      "id": "cg-steaks-mexican-fire-chicken",
+      "name": "Mexican Fire Chicken",
+      "category": "Steaks",
+      "price_minor": 189000
+    },
+    {
+      "id": "cg-steaks-stuffed-cheesy-chicken",
+      "name": "Stuffed Cheesy Chicken",
+      "category": "Steaks",
+      "price_minor": 189000
+    },
+    {
+      "id": "cg-steaks-tarragon-chicken",
+      "name": "Tarragon Chicken",
+      "category": "Steaks",
+      "price_minor": 189000
+    },
+    {
+      "id": "cg-steaks-thai-beef-steak",
+      "name": "Thai Beef Steak",
+      "category": "Steaks",
+      "price_minor": 299000
+    },
+    {
+      "id": "cg-steaks-tuscan-chicken",
+      "name": "Tuscan Chicken",
+      "category": "Steaks",
+      "price_minor": 189000
+    },
+    {
+      "id": "cg-steam-fried-rice-steam-fried-rice",
+      "name": "Steam Fried Rice",
+      "category": "Steam Fried Rice",
+      "price_minor": 70000
+    },
+    {
+      "id": "cg-traditional-balochi-tikka-karahi",
+      "name": "Balochi Tikka Karahi",
+      "category": "Traditional",
+      "price_minor": 300000
+    },
+    {
+      "id": "cg-traditional-cg-special-handi",
+      "name": "CG Special Handi",
+      "category": "Traditional",
+      "price_minor": 255000
+    },
+    {
+      "id": "cg-traditional-chicken-b-b-q-handi",
+      "name": "Chicken B.B.Q Handi",
+      "category": "Traditional",
+      "price_minor": 249000
+    },
+    {
+      "id": "cg-traditional-chicken-peshawri-karahi",
+      "name": "Chicken Peshawri Karahi",
+      "category": "Traditional",
+      "price_minor": 199000
+    },
+    {
+      "id": "cg-traditional-chicken-reshmi-handi",
+      "name": "Chicken Reshmi Handi",
+      "category": "Traditional",
+      "price_minor": 249000
+    },
+    {
+      "id": "cg-traditional-chicken-shahi-handi",
+      "name": "Chicken Shahi Handi",
+      "category": "Traditional",
+      "price_minor": 255000
+    },
+    {
+      "id": "cg-traditional-daal-makhni",
+      "name": "Daal Makhni",
+      "category": "Traditional",
+      "price_minor": 95000
+    },
+    {
+      "id": "cg-traditional-mutton-brain-masala",
+      "name": "Mutton Brain Masala",
+      "category": "Traditional",
+      "price_minor": 195000
+    },
+    {
+      "id": "cg-traditional-mutton-katakat",
+      "name": "Mutton Katakat",
+      "category": "Traditional",
+      "price_minor": 193000
+    },
+    {
+      "id": "cg-traditional-mutton-peshawri-karahi",
+      "name": "Mutton Peshawri Karahi",
+      "category": "Traditional",
+      "price_minor": 275000
+    },
+    {
+      "id": "cg-traditional-prawn-karahi",
+      "name": "Prawn Karahi",
+      "category": "Traditional",
+      "price_minor": 265000
+    },
+    {
+      "id": "cg-vegetable-fried-rice-vegetable-fried-rice",
+      "name": "Vegetable Fried Rice",
+      "category": "Vegetable Fried Rice",
+      "price_minor": 75000
+    }
+  ]
+}

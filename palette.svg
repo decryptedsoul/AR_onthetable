@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420" role="img" aria-labelledby="title desc">
+  <title id="title">Coconut Grove proposed UI palette</title>
+  <desc id="desc">Grove Green #173F35, Palm Gold #C6A667, Coconut Ivory #F7F3E8, and Charcoal #202722. Proposed web colors, not official brand specifications.</desc>
+  <rect width="960" height="420" fill="#F7F3E8"/>
+  <g font-family="Arial, sans-serif" fill="#202722">
+    <text x="32" y="45" font-size="25" font-weight="700">COCONUT GROVE</text>
+    <text x="32" y="74" font-size="15">Proposed mobile menu palette</text>
+  </g>
+  <rect x="32" y="105" width="224" height="220" fill="#173F35"/>
+  <rect x="256" y="105" width="224" height="220" fill="#C6A667"/>
+  <rect x="480" y="105" width="224" height="220" fill="#F7F3E8" stroke="#202722"/>
+  <rect x="704" y="105" width="224" height="220" fill="#202722"/>
+  <g font-family="Arial, sans-serif" fill="#202722" font-size="17" font-weight="700">
+    <text x="32" y="356">Grove Green</text><text x="256" y="356">Palm Gold</text>
+    <text x="480" y="356">Coconut Ivory</text><text x="704" y="356">Charcoal</text>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#202722" font-size="16">
+    <text x="32" y="383">#173F35 · Actions</text><text x="256" y="383">#C6A667 · Accents</text>
+    <text x="480" y="383">#F7F3E8 · Background</text><text x="704" y="383">#202722 · Text</text>
+  </g>
+</svg>

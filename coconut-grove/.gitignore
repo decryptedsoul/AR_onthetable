@@ -1,0 +1,15 @@
+*.tar.gz
+*.tar
+asset-check.jpg
+.taste-skill/
+node_modules/
+frontend/dist/
+backend/.venv/
+backend/var/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+!frontend/.env.example
+!backend/.env.example

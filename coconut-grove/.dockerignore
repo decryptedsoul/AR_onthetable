@@ -1,0 +1,13 @@
+**/node_modules
+**/.venv
+**/__pycache__
+**/*.pyc
+**/.env
+**/.env.*
+**/var
+frontend/dist
+.git
+.openai
+.taste-skill
+asset-check.jpg
+dist

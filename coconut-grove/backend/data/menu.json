@@ -1,0 +1,162 @@
+[
+  {
+    "id": "platter",
+    "name": "The desi platter",
+    "category": "Mains",
+    "photo": "platter",
+    "description": "A comforting spread of curry, warm flatbread and sides.",
+    "minutes": [
+      25,
+      35
+    ],
+    "spice": 3,
+    "portion": "1 person",
+    "quantity": "1 curry, flatbread & sides",
+    "price": 1650,
+    "ingredients": [
+      "Chickpeas",
+      "Tomato",
+      "Onion",
+      "Ginger and garlic",
+      "Wheat flatbread",
+      "Yogurt side",
+      "Curry spices",
+      "Vegetable oil"
+    ],
+    "allergens": "Wheat and milk",
+    "variant": "For two",
+    "variantPrice": 2950,
+    "variantQuantity": "2 servings with flatbread & sides"
+  },
+  {
+    "id": "burger",
+    "name": "The Grove burger",
+    "category": "Burgers",
+    "photo": "burger",
+    "description": "A grilled beef patty, crisp greens and a generous spoon of house sauce.",
+    "minutes": [
+      20,
+      25
+    ],
+    "spice": 1,
+    "portion": "1 person",
+    "quantity": "1 burger · approx. 180 g patty",
+    "price": 1450,
+    "ingredients": [
+      "Beef patty",
+      "Wheat bun",
+      "Lettuce",
+      "Tomato",
+      "Onion",
+      "Cheddar cheese",
+      "House sauce: mayonnaise, mustard, ketchup"
+    ],
+    "allergens": "Wheat, milk, egg and mustard",
+    "variant": null
+  },
+  {
+    "id": "pasta",
+    "name": "Basil garden pasta",
+    "category": "Pasta",
+    "photo": "pasta",
+    "description": "Farfalle tossed with basil pesto, cherry tomatoes and fresh greens.",
+    "minutes": [
+      15,
+      20
+    ],
+    "spice": 1,
+    "portion": "1 person",
+    "quantity": "Approx. 300 g cooked serving",
+    "price": 1550,
+    "ingredients": [
+      "Wheat farfalle",
+      "Basil",
+      "Olive oil",
+      "Garlic",
+      "Pine nuts",
+      "Parmesan",
+      "Cherry tomatoes",
+      "Rocket"
+    ],
+    "allergens": "Wheat, milk and pine nuts",
+    "variant": "For two",
+    "variantPrice": 2750,
+    "variantQuantity": "Approx. 600 g cooked serving"
+  },
+  {
+    "id": "salad",
+    "name": "Garden harvest bowl",
+    "category": "Greens",
+    "photo": "salad",
+    "description": "Colorful vegetables, avocado and chickpeas with a citrus dressing.",
+    "minutes": [
+      10,
+      15
+    ],
+    "spice": 0,
+    "portion": "1 person",
+    "quantity": "Approx. 280 g bowl",
+    "price": 1150,
+    "ingredients": [
+      "Mixed leaves",
+      "Avocado",
+      "Chickpeas",
+      "Carrot",
+      "Red cabbage",
+      "Cherry tomatoes",
+      "Lemon dressing: lemon juice, olive oil, mustard"
+    ],
+    "allergens": "Mustard",
+    "variant": null
+  },
+  {
+    "id": "salmon",
+    "name": "Salmon & avocado",
+    "category": "Starters",
+    "photo": "salmon",
+    "description": "A delicate layered starter with salmon, avocado and fresh herbs.",
+    "minutes": [
+      15,
+      20
+    ],
+    "spice": 0,
+    "portion": "1–2 people",
+    "quantity": "Approx. 160 g starter",
+    "price": 1850,
+    "ingredients": [
+      "Salmon",
+      "Avocado",
+      "Cucumber",
+      "Salmon roe",
+      "Basil",
+      "Lemon juice",
+      "Olive oil"
+    ],
+    "allergens": "Fish",
+    "variant": null
+  },
+  {
+    "id": "pasta-share",
+    "name": "Pesto for the table",
+    "category": "Pasta",
+    "photo": "pasta",
+    "description": "A sharing portion of basil pasta for a leisurely meal together.",
+    "minutes": [
+      20,
+      25
+    ],
+    "spice": 2,
+    "portion": "2 people",
+    "quantity": "Approx. 650 g cooked serving",
+    "price": 2850,
+    "ingredients": [
+      "Wheat farfalle",
+      "Basil pesto: basil, pine nuts, garlic, olive oil, Parmesan",
+      "Cherry tomatoes",
+      "Rocket",
+      "Chili flakes"
+    ],
+    "allergens": "Wheat, milk and pine nuts",
+    "variant": null
+  }
+]
